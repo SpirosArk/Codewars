@@ -53,6 +53,7 @@ def last_digit(n1, n2)
         return 6
     
     
+    
     elif ((mod1 == 7))
     
         return (pow(mod1, n2 % 4) % 10)
