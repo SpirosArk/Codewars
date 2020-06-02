@@ -31,5 +31,6 @@ public class Solution {
   total = sum3 + sum5 - sum15;
     
   return total;
+    
   }
 }
