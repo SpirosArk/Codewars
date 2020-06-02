@@ -34,7 +34,6 @@ public class isogram {
       else{
       
         return true;
-      
       }
     }
 }
